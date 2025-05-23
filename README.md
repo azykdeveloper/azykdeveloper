@@ -29,9 +29,9 @@ I'm a self-taught frontend developer passionate about creating clean, responsive
 
 ## 📫 Get in Touch
 
-- 📧 Email: azykdeveloper@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 💬 Telegram: [@yourtelegram](https://t.me/yourtelegram)
+- 📧 [Email](azykdeveloper@gmail.com)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/azykdeveloper)  
+- 💬 [Telegram](https://t.me/yourtelegram)
 
 ---
 
