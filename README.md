@@ -8,11 +8,14 @@ I'm a self-taught frontend developer passionate about creating clean, responsive
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Styling**: Tailwind CSS, Bootstrap, Sass (SCSS)
-- **JavaScript Frameworks**: Vue.js, React.js
-- **State Management**: Vuex, Pinia
-- **Tools**: Git, GitHub, VS Code, npm/yarn
+<code><img src="https://ik.imagekit.io/azykxyz/Logos/html.png?updatedAt=1747844003564" height="40" /></code>
+<code><img src="https://ik.imagekit.io/azykxyz/Logos/css.webp?updatedAt=1747843998397" height="40" /></code>
+<code><img src="https://ik.imagekit.io/azykxyz/Logos/bootstrap.png?updatedAt=1747844302966" height="40" /></code>
+<code><img src="https://ik.imagekit.io/azykxyz/Logos/sass.png?updatedAt=1747913861237" height="40" /></code>
+<code><img src="https://ik.imagekit.io/azykxyz/Logos/tailwindcss.webp?updatedAt=1747844002421" height="40" /></code>
+<code><img src="https://ik.imagekit.io/azykxyz/Logos/js.webp?updatedAt=1747844002618" height="40" /></code>
+<code><img src="https://ik.imagekit.io/azykxyz/Logos/vuejs.webp?updatedAt=1747844001995" height="40" /></code>
+<code><img src="https://ik.imagekit.io/azykxyz/Logos/vuex.png?updatedAt=1747844012758" height="40" /></code>
 
 ---
 
