@@ -21,7 +21,6 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Heroku](https://skillicons.dev/icons?i=heroku)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 ## 📫 Get in Touch
