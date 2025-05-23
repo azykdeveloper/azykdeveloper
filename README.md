@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Azizbek Nayimov
 
-## 👨‍💻 Frontend Developer
-
 I'm a self-taught **frontend developer** passionate about creating clean, responsive, and user-friendly web interfaces.
 
 ## 🛠️ Skills & Technologies
