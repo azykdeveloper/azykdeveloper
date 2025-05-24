@@ -2,8 +2,6 @@
 
 I'm a self-taught **frontend developer** passionate about creating clean, responsive, and user-friendly web interfaces.
 
-## 🛠️ Skills & Technologies
-
 ### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -23,12 +21,12 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 - 📧 [Email](mailto:azykdeveloper@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/azykdeveloper)  
 - 💬 [Telegram](https://t.me/azykdeveloperr)
 
-## 🙌 Thanks for visiting!
+### 🙌 Thanks for visiting!
 
 If you're interested in collaborating, have a project idea, or just want to connect — feel free to reach out!
