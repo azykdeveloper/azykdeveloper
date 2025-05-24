@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AzizbekNayimov">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;Focused+on+modern+frontend+experiences;Turning+ideas+into+interactive+web+apps" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;oooFocused+on+modern+frontend+experiences;oooTurning+ideas+into+interactive+web+apps" />
   </a>
 </p>
 
@@ -25,9 +25,11 @@
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+  <br/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/🍍 Pinia-facc15?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Nuxt.js-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
