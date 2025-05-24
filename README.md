@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AzizbekNayimov">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=0ABDE3&width=535&lines=Frontend+Developer;Focused+on+modern+frontend+experiences;Turning+ideas+into+interactive+web+apps" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ABDE3&width=535&lines=Frontend+Developer;Focused+on+modern+frontend+experiences;Turning+ideas+into+interactive+web+apps" alt="Typing SVG" />
   </a>
 </p>
 
