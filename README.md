@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/azykdeveloper">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;Vue.js+%7C+NuxtJS+%7C+Tailwind+Enthusiast;Passionate+about+Modern+Web">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;+Vue.js+%7C+NuxtJS+%7C+Tailwind+Enthusiast;Passionate+about+Modern+Web">
   </a>
 </p>
 
@@ -50,9 +50,9 @@
 
 ### 📫 Contact Me
 
-- 💼 [LinkedIn](#) — *(add your link)*
+- 💼 [LinkedIn](#) — *(https://www.linkedin.com/in/azykdeveloper/)*
 - 🌐 Portfolio: [azizbek.dev](#) — *(if you have one)*
-- 📧 Email: example@gmail.com
+- 📧 Email: azykdeveloper@gmail.com
 
 ---
 
