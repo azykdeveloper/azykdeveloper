@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AzizbekNayimov">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;oooFocused+on+modern+frontend+experiences;oooTurning+ideas+into+interactive+web+apps" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;ooooFocused+on+modern+frontend+experiences;ooooTurning+ideas+into+interactive+web+apps" />
   </a>
 </p>
 
@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/🍍 Pinia-facc15?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Nuxt.js-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 ---
@@ -40,21 +44,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azykdeveloper&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azykdeveloper&theme=react&hide_border=true&border_radius=10" alt="Azizbek's GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&theme=radical" width="40%" />
 </p>
 
+<!-- 
+
 ---
 
 ### 📫 Contact Me
 
+
 - 💼 [LinkedIn](#) — *(https://www.linkedin.com/in/azykdeveloper/)*
 - 🌐 Portfolio: [azizbek.dev](#) — *(if you have one)*
-- 📧 Email: azykdeveloper@gmail.com
+- 📧 Email: azykdeveloper@gmail.com 
+-->
 
 ---
 
