@@ -9,17 +9,23 @@
 
 ---
 
-### 👋 Hi there! I'm Azizbek Nayimov
+<h3 align="center">👋 Hi there! I'm Azizbek Nayimov</h3>
 
-💻 A passionate **Frontend Web Developer** who builds clean, fast, and scalable web applications.  
-🌱 Currently focused on crafting high-performance interfaces using Vue ecosystem and modern tools.  
-🚀 I love solving problems with code and bringing creative ideas to life in the browser.
-
+<p align="center">
+  💻 A passionate **Frontend Web Developer** who builds clean, fast, and scalable web applications. 
+</p>
+<p align="center">
+  🌱 Currently focused on crafting high-performance interfaces using Vue ecosystem and modern tools. 
+</p>
+<p align="center">
+  🚀 I love solving problems with code and bringing creative ideas to life in the browser.
+</p>
+ 
 ---
 
-### 🛠 Tech Stack
+<h3 align="center">🛠 Tech Stack</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -39,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
