@@ -21,8 +21,6 @@
   🚀 I love solving problems with code and bringing creative ideas to life in the browser.
 </p>
  
----
-
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
@@ -42,8 +40,6 @@
   <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
-
----
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -70,8 +66,6 @@
 - 🌐 Portfolio: [azizbek.dev](#) — *(if you have one)*
 - 📧 Email: azykdeveloper@gmail.com 
 -->
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer"/>
