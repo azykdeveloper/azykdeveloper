@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinia-facc15?style=for-the-badge&logo=🍍 pinia&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00dc82?style=for-the-badge&logo=nuxtjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/🍍 Pinia-facc15?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </p>
 
 ---
