@@ -1,32 +1,44 @@
-# 👋 Hi, I'm Azizbek Nayimov
+<h1 align="center">Salom 👋, Men Azizbek Nayimov</h1>
+<h3 align="center">Web dasturchiman. Zamonaviy frontend texnologiyalari bilan ishlashni yaxshi ko‘raman.</h3>
 
-I'm a self-taught **frontend developer** passionate about creating clean, responsive, and user-friendly web interfaces.
+---
 
-#### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Sass](https://skillicons.dev/icons?i=sass)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=vue)
-![Next.js](https://skillicons.dev/icons?i=pinia)
-![Redux](https://skillicons.dev/icons?i=nuxtjs)
+### 🧑‍💻 Men ishlayman:
+- HTML, CSS, Sass, TailwindCSS
+- JavaScript, TypeScript
+- Vue.js, Pinia, Nuxt.js
 
-#### DevOps & Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Postman](https://skillicons.dev/icons?i=postman)
+---
 
-#### 📫 Get in Touch
+### ⚙️ Asboblar va texnologiyalar:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinia-FADA5E?style=for-the-badge&logo=pinia&logoColor=black"/>
+</p>
 
-- 📧 [Email](mailto:azykdeveloper@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/azykdeveloper)  
-- 💬 [Telegram](https://t.me/azykdeveloperr)
+---
 
-#### 🙌 Thanks for visiting!
+### 📈 GitHub Statistikasi:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Azizbek's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-If you're interested in collaborating, have a project idea, or just want to connect — feel free to reach out!
+---
+
+### 🌐 Menga ulanishingiz mumkin:
+- 📬 Telegram: [@yourtelegram](https://t.me/yourtelegram)
+- 💼 LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+> "Kod - bu faqat kod emas, bu g‘oyaning ifodasi."
+
