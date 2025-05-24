@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AzizbekNayimov">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;oooooFocused+on+modern+frontend+experiences;oooooTurning+ideas+into+interactive+web+apps" />
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=0ABDE3&width=535&lines=Frontend+Developer;Focused+on+modern+frontend+experiences;Turning+ideas+into+interactive+web+apps" />
   </a>
 </p>
 
