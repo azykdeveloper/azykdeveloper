@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AzizbekNayimov">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;ooooFocused+on+modern+frontend+experiences;ooooTurning+ideas+into+interactive+web+apps" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0ABDE3&center=true&vCenter=true&width=435&lines=Frontend+Developer;oooooFocused+on+modern+frontend+experiences;oooooTurning+ideas+into+interactive+web+apps" />
   </a>
 </p>
 
@@ -44,11 +44,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azykdeveloper&theme=react&hide_border=true&border_radius=10" alt="Azizbek's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azykdeveloper&theme=radical&hide_border=true&border_radius=10" alt="Azizbek's GitHub Streak" />
 </p>
 
 <p align="center">
