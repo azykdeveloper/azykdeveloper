@@ -28,15 +28,11 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
  
 <h3 align="center">🛠 Tech Stack</h3>
 
-  ![HTML](https://skillicons.dev/icons?i=html)
-  ![CSS](https://skillicons.dev/icons?i=css)
-  ![Sass](https://skillicons.dev/icons?i=sass)
-  ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-  ![JavaScript](https://skillicons.dev/icons?i=js)
-  ![TypeScript](https://skillicons.dev/icons?i=ts)
-  ![React](https://skillicons.dev/icons?i=react)
-  ![Next.js](https://skillicons.dev/icons?i=nextjs)
-  ![Redux](https://skillicons.dev/icons?i=redux)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,vue,vuex,pinia" />
+  </a>
+</p>
 
 <!--
 <p align="center">
