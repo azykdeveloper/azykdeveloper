@@ -30,7 +30,22 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,vue,vuex,pinia" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,pinia,nuxtjs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs" />
   </a>
 </p>
 
