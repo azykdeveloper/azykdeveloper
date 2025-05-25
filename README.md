@@ -29,6 +29,19 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
+  ![HTML](https://skillicons.dev/icons?i=html)
+  ![CSS](https://skillicons.dev/icons?i=css)
+  ![Sass](https://skillicons.dev/icons?i=sass)
+  ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+  ![JavaScript](https://skillicons.dev/icons?i=js)
+  ![TypeScript](https://skillicons.dev/icons?i=ts)
+  ![React](https://skillicons.dev/icons?i=react)
+  ![Next.js](https://skillicons.dev/icons?i=nextjs)
+  ![Redux](https://skillicons.dev/icons?i=redux)
+</p>
+
+<!--
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -45,6 +58,7 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
   <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
+-->
 
 <h3 align="center">📊 GitHub Stats</h3>
 
