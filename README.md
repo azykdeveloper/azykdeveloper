@@ -23,7 +23,6 @@
  
 <h3 align="center">🛠 Tech Stack</h3>
 
-<p align="center">
   ![HTML](https://skillicons.dev/icons?i=html)
   ![CSS](https://skillicons.dev/icons?i=css)
   ![Sass](https://skillicons.dev/icons?i=sass)
@@ -33,7 +32,6 @@
   ![React](https://skillicons.dev/icons?i=react)
   ![Next.js](https://skillicons.dev/icons?i=nextjs)
   ![Redux](https://skillicons.dev/icons?i=redux)
-</p>
 
 <!--
 <p align="center">
