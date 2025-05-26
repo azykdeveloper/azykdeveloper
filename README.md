@@ -12,7 +12,7 @@
 <h3 align="center">👋 Hi there! I'm Azizbek Nayimov</h3>
 
 <p align="center">
-  💻 A passionate **Frontend Web Developer** who builds clean, fast, and scalable web applications. 
+  💻 A passionate <b>Frontend Web Developer</b> who builds clean, fast, and scalable web applications. 
 </p>
 <p align="center">
   🌱 Currently focused on crafting high-performance interfaces using Vue ecosystem and modern tools. 
@@ -23,6 +23,7 @@
  
 <h3 align="center">🛠 Tech Stack</h3>
 
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" />
@@ -43,8 +44,9 @@
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs" />
   </a>
 </p>
+-->
 
-<!--
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
@@ -62,7 +64,7 @@
   <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
--->
+
 
 <h3 align="center">📊 GitHub Stats</h3>
 
