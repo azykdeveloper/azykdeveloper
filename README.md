@@ -63,7 +63,7 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
   <br/>
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/🍍 Pinia-facc15?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ᨒ Nuxt.js-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
