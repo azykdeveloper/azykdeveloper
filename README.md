@@ -82,7 +82,11 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
 </p>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&theme=radical" width="40%" />
+=======
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&hide_border=true&theme=dark"  />
+>>>>>>> 01a4a37 (Update README.md)
 </p>
 
 <!--
