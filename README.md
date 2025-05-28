@@ -72,9 +72,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
 </p>
 
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azykdeveloper&theme=javascript)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=azykdeveloper&theme=javascript" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&theme=radical" width="40%" />
