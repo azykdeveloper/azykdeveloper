@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=azykdeveloper&theme=javascript" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=azykdeveloper&theme=vue-dark" alt="GitHub Streak" />
   </a>
 </p>
 
