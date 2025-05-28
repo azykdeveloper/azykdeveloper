@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&hide_border=true&theme=dark" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&hide_border=true&theme=dark"  />
 </p>
 
 <!-- 
