@@ -69,7 +69,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&theme=vue-dark" width="40%" />
 </p>
 
 <!-- 
