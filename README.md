@@ -1,18 +1,13 @@
-# 👋 Hi, I'm Azizbek Nayimov
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=15DBE8FF&text=Azizbek%20Nayimov&textBg=false&fontColor=fff&reversal=false&animation=fadeIn"/>
+</p>
 
-I'm a self-taught **frontend developer** passionate about creating clean, responsive, and user-friendly web interfaces.
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=15DBE8FF&center=true&width=635&height=40&lines=Frontend+Developer;Creating+modern+and+responsive+web+apps;Always+learning%2C+always+coding" alt="Typing SVG" /></a>
+<p>
 
-### Frontend
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Sass](https://skillicons.dev/icons?i=sass)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=vue)
-![Next.js](https://skillicons.dev/icons?i=pinia)
-![Redux](https://skillicons.dev/icons?i=nuxtjs)
+
 
 <h3 align="center">👋 Hi there! I'm Azizbek Nayimov</h3>
 
@@ -28,28 +23,7 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
  
 <h3 align="center">🛠 Tech Stack</h3>
 
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,pinia,nuxtjs" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs" />
-  </a>
-</p>
--->
+
 
 
 <p align="center">
@@ -73,34 +47,31 @@ I'm a self-taught **frontend developer** passionate about creating clean, respon
 
 <h3 align="center">📊 GitHub Stats</h3>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azykdeveloper&hide_border=true&border_radius=10" alt="Azizbek's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azykdeveloper&theme=radical&hide_border=true&border_radius=10" alt="Azizbek's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
 </p>
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&theme=radical" width="40%" />
-=======
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&hide_border=true&theme=dark"  />
->>>>>>> 01a4a37 (Update README.md)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&hide_border=true"  />
 </p>
 
-<!--
+
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 
-- 💼 [LinkedIn](#) — *(https://www.linkedin.com/in/azykdeveloper/)*
-- 🌐 Portfolio: [azizbek.dev](#) — *(if you have one)*
-- 📧 Email: azykdeveloper@gmail.com
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/azykdeveloper)
+- 🌐 [Portfolio](#)
+- 📧 [Email](azykdeveloper@gmail.com)
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=15DBE8FF&height=150&section=footer"/>
 </p>
