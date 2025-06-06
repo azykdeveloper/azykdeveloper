@@ -71,6 +71,12 @@
 - 🌐 [Portfolio](#)
 - 📧 [Email](azykdeveloper@gmail.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azykdeveloper/azykdeveloper/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azykdeveloper/azykdeveloper/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/azykdeveloper/azykdeveloper/output/github-snake.svg" />
+</picture>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=15DBE8FF&height=150&section=footer"/>
