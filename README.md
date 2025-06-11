@@ -64,12 +64,9 @@
 
 ---
 
-### Contact Me
+<h3 align="center">Contact Me</h3>
 
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/azykdeveloper)
-- 🌐 [Portfolio](#)
-- 📧 [Email](azykdeveloper@gmail.com)
+<p align="center">[LinkedIn](https://www.linkedin.com/in/azykdeveloper) | [Portfolio](#) | [Email](azykdeveloper@gmail.com)</p>
 
 <!--
 <p align="center">
