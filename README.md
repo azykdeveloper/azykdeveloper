@@ -67,8 +67,8 @@
 <h3 align="center">Contact Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/azykdeveloper">LinkedIn</a>
-  <a href="#">Portfolio</a>
+  <a href="https://www.linkedin.com/in/azykdeveloper">LinkedIn</a> | 
+  <a href="#">Portfolio</a> | 
   <a href="azykdeveloper@gmail.com">Email</a>
 </p>
 
