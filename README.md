@@ -60,6 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&hide_border=true"  />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=azykdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="azykdeveloper" /> </p>
 
 
 ---
