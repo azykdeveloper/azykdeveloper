@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">👋 Hi there! I'm Azizbek Nayimov</h3>
+<h3 align="center">👋 Hi there! I'm Azizbek</h3>
 
 <p align="center">
   💻 A passionate <b>Frontend Web Developer</b> who builds clean, fast, and scalable web applications. 
