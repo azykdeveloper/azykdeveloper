@@ -47,17 +47,16 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azykdeveloper&hide_border=true&border_radius=10" alt="Azizbek's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azykdeveloper&theme=transparent&hide_border=true&border_radius=10" alt="Azizbek's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&show_icons=true&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&theme=transparent&show_icons=true&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&layout=compact&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&theme=transparent&layout=compact&hide_border=true"  />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azykdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="azykdeveloper" /> </p>
