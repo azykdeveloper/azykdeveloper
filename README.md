@@ -48,7 +48,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azykdeveloper&theme=transparent&hide_border=true&currStreakNum=EA5455&fire=F07B3F&ring=F07B3F" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azykdeveloper&theme=transparent&hide_border=true&currStreakNum=F30A49&fire=F30A49&ring=F30A49" alt="GitHub Streak" />
 </p>
 
 <p align="center">
